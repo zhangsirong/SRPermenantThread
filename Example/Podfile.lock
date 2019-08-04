@@ -1,0 +1,16 @@
+PODS:
+  - SRPermenantThread (0.1.0)
+
+DEPENDENCIES:
+  - SRPermenantThread (from `../`)
+
+EXTERNAL SOURCES:
+  SRPermenantThread:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SRPermenantThread: d68ee5496a2ec64311bf9763ac71d8d8771dc9a6
+
+PODFILE CHECKSUM: d4690bbf3ca9ced46cfd259af7176dd66ec411c7
+
+COCOAPODS: 1.4.0
